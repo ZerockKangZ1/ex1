@@ -7,5 +7,7 @@ public class Main {
 		System.out.println("ex1....................");
 		
 		System.out.println("2nd....................");
+
+		System.out.println("3rd....................");
 	}
 }
